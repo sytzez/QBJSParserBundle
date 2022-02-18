@@ -1,8 +1,8 @@
 {
-  "name": "fourlabs/qbjs-parser-bundle",
+  "name": "sytzez/qbjs-parser-bundle",
   "description": "This bundle is a Symfony wrapper for fourlabs/qbjs-parser.",
   "license": "MIT",
-  "homepage": "https://github.com/fourlabsldn/QBJSParserBundle",
+  "homepage": "https://github.com/sytzez/QBJSParserBundle",
   "keywords": [
     "PHP","QBJSParser", "QBJSParserBundle", "QBJS",
     "Parser", "Symfony", "Doctrine", "ORM",
